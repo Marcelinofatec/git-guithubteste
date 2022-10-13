@@ -2,10 +2,9 @@
 
 ![preview](./.github/preview.png)
 
-Projeto construído durante o curso de Web Designer no Senac SP São Miguel Paulista.
+Projeto construído durante a faculdade de Gestão da tecnologia da informação na Fatec Itaquaquicetuba.
 
-[Clique aqui para acessar](https://deb-neco.github.io/tabacaria-imperio)
-
+[Clique aqui para acessar](https://github.com/Andremarcelino779/git-guithubteste)
 ## Tecnologias
 
 - Html
