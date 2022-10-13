@@ -1,5 +1,4 @@
-#Web Designer - Senac SP
-
+#Web Designer Projeto Meio Ambiente.
 ![preview](./.github/preview.png)
 
 Projeto construído durante a faculdade de Gestão da tecnologia da informação na Fatec Itaquaquicetuba.
