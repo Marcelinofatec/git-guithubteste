@@ -1,9 +1,11 @@
-#Web Designer Projeto Meio Ambiente.
+#Web Designer - Fatec Itaquaquicetuba SP
+
 ![preview](./.github/preview.png)
 
-Projeto construído durante a faculdade de Gestão da tecnologia da informação na Fatec Itaquaquicetuba.
+Projeto construído durante a Faculdade Gestão da Tecnologia da Informação.
 
-[Clique aqui para acessar](https://github.com/Andremarcelino779/git-guithubteste)
+[Clique aqui para acessar](https://Github/git-guithubteste)
+
 ## Tecnologias
 
 - Html
@@ -11,4 +13,4 @@ Projeto construído durante a faculdade de Gestão da tecnologia da informação
 - Git e GitHub
 
 Contato
-andre.marcelino@fatec.sp.gov.br
+andremarcelino@fatec.sp.gov.br
