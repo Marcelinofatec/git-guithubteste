@@ -11,4 +11,4 @@ Projeto construído durante a faculdade de Gestão da tecnologia da informação
 - Git e GitHub
 
 Contato
-deborahneco@outlook.com
+andre.marcelino@fatec.sp.gov.br
